@@ -45,18 +45,23 @@ O projeto permitiu colocar em prática conceitos de programação em C#, utiliza
 ![Gameplay - Construção Extrema](./Construcao-Extrema-preview.gif)
 
 [▶️ Assistir ao vídeo completo](./Construcao-Extrema-demo.mp4)
+## 📸 Screenshots
+
+### Menu
+
+![Menu Construção Extrema](./Menu%20Construcao%20Extrema.png)
+
+### Gameplay
+
+![Gameplay 1](./Gameplay1.png)
+
+![Gameplay 2](./Gameplay2.png)
 ## 📚 Créditos
 
 Projeto desenvolvido acompanhando o conteúdo e as orientações da comunidade **Desenvolvedor Unity**.
 ## 📸 Screenshots
 
-### Gameplay
 
-![Construção Extrema - Gameplay 1](./NOME-DA-IMAGEM-1.png)
-
-![Construção Extrema - Gameplay 2](./NOME-DA-IMAGEM-2.png)
-
-![Construção Extrema - Gameplay 3](./NOME-DA-IMAGEM-3.png)
 ## 👨‍💻 Desenvolvedor
 
 **Guilherme Alves Fandeveda**
