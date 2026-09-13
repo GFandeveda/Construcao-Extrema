@@ -40,11 +40,11 @@ O projeto permitiu colocar em prática conceitos de programação em C#, utiliza
 
 ## 📹 Demonstração
 
-Vídeo demonstrando o gameplay do projeto:
+### Gameplay
 
-**Construção Extrema — Gameplay**
+![Gameplay - Construção Extrema](./Construcao-Extrema-preview.gif)
 
-
+[▶️ Assistir ao vídeo completo](./Construcao-Extrema-demo.mp4)
 ## 📚 Créditos
 
 Projeto desenvolvido acompanhando o conteúdo e as orientações da comunidade **Desenvolvedor Unity**.
