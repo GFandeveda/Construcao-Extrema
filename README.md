@@ -48,7 +48,15 @@ O projeto permitiu colocar em prática conceitos de programação em C#, utiliza
 ## 📚 Créditos
 
 Projeto desenvolvido acompanhando o conteúdo e as orientações da comunidade **Desenvolvedor Unity**.
+## 📸 Screenshots
 
+### Gameplay
+
+![Construção Extrema - Gameplay 1](./NOME-DA-IMAGEM-1.png)
+
+![Construção Extrema - Gameplay 2](./NOME-DA-IMAGEM-2.png)
+
+![Construção Extrema - Gameplay 3](./NOME-DA-IMAGEM-3.png)
 ## 👨‍💻 Desenvolvedor
 
 **Guilherme Alves Fandeveda**
